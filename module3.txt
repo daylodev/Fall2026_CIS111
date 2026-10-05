@@ -1,0 +1,42 @@
+Python Packages
+
+1. Jython
+https://linkprotect.cudasvc.com/url?a=https%3a%2f%2fwww.jython.org%2f&c=E,1,pWqwX6K00GyT6q6eJZ-5EuPoTYCYBKCOrmadKmk6br60hcF3MMGHPmtQ3-qSdPThUtNVNEINiqcE4JDDJWHA34kMdTeSLVQPgZ8y1L63CxrIxQiN65C7gns,&typo=1
+
+I'm interested in Jython because it's used for language translation. It's primarily
+for Java programming but allows using Python scripts to be used within a Java environment. 
+Right now, it only supports Python 2. I remember Python 3 not being version compatible, 
+but the project is being further developed to be used in the latest version of Python.
+
+2. Django
+https://www.djangoproject.com/
+
+Django is a commonly used web framework. I believe this is an essential tool for python
+web developers. It's many scalable features are designed to handle versatile tasks for
+sites, scripting, and data with secure processes. This may become a powerful addition
+I'd rely on in my future web development projects. 
+
+3. Python Utils
+https://linkprotect.cudasvc.com/url?a=https%3a%2f%2fpython-utils.readthedocs.io%2fen%2flatest%2fusage.html&c=E,1,AwMOf94le8zmjdP8LYh_FEpYof1W5i2IlkLNI5El7LnYIKceK-lhgPTNkBKyCiOI-88lKxF_JYHxo9klZXfd5S7UQ4aQN3NOlXNTR2Msy-kEpVe9k0dbhQ,,&typo=1
+
+Utility libraries are extra tools I can use to improve my work. I think the importance
+of utilities in my programming environment can help simplify the logic and progression
+throughout my projects. Conversion and formatting tools are included in this package,
+which help make the code easier to read.
+
+4. Tenacity
+https://linkprotect.cudasvc.com/url?a=https%3a%2f%2fpypi.org%2fproject%2ftenacity%2f%23description&c=E,1,hpL5brGjQjbl_B0v1RWzu08Ad26euKsPLAp7j9vLLkQMkgXwwFVzZkL31OfSjR-skqgebVzvJgOzM4RmqWxK5vMrjilAk4jIbE0l2taZQg,,&typo=1
+
+Tenacity is an automatic system to continuously attempt running a program. I think
+it would be useful for accessing APIs, however, in the documentation it states that
+this tool is not API compatible. It can be used for functions and specified to run 
+a certain amount of times, or while meeting a set of conditions.
+
+5. That Metric Timeline (TMT)
+https://linkprotect.cudasvc.com/url?a=https%3a%2f%2fpypi.org%2fproject%2fThatMetricTimeline%2f&c=E,1,DMsC161iNR53bcbw33E9AehGJK0eOcsHQnK-ViXHZw67QKReweqkTO9W2Scpb2H8IyUC-i0VcuDq-pXHRRS0sSTUD6MMU46BRPwiohtElrGRUI9vrDJ68j4m&typo=1
+
+This package is meant to keep track of experiments and the code to produce its results.
+It's accessible through a terminal interface and saves data to a JSON file. I'd like to 
+use this while testing projects to get more information when running my code. Perhaps,
+this could work potentially with Tenacity routinely.
+ 
